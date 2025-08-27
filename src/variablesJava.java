@@ -9,6 +9,7 @@ public class variablesJava {
 
         short entero3 = 123;
         int entero4 = 123456789;
+        float numero1 = 3.14f;
 
 
 
