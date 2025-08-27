@@ -7,5 +7,11 @@ public class variablesJava {
         byte entero2 = 12;
         System.out.println("entero = " + entero);
 
+        short entero3 = 123;
+        int entero4 = 123456789;
+
+
+
+
     }
 }
