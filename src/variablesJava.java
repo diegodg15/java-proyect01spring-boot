@@ -25,5 +25,8 @@ public class variablesJava {
 
         boolean booleanFalse = false;
         System.out.println("boolean" + booleanFalse);
+
+        Integer numeroInteger = null;
+        System.out.println("integer" + numeroInteger);
     }
 }
